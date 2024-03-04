@@ -51,5 +51,3 @@ This guide outlines the process for deploying the Pet Pals application to Heroku
 #### Final Notes
 - Ensure longitude values are negative for correct plotting on the US map.
 - The deployment process primarily involves setting up the application environment, preparing configuration files, deploying through Heroku, and initializing the database. Follow these steps carefully to ensure a smooth deployment.
-
-This README provides a step-by-step guide for deploying applications to Heroku, demonstrated with the Pet Pals application. Adjust the instructions as necessary for your specific project requirements.
