@@ -1,7 +1,7 @@
 # import necessary libraries
 import os
 from flask import (
-    flask,
+    Flask,
     render_template,
     jsonify,
     request,
@@ -10,7 +10,7 @@ from flask import (
 #################################################
 # Flask Setup
 #################################################
-app = flask(__name__)
+app = Flask(__name__)
 
 #################################################
 # Database Setup
